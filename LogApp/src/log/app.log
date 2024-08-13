@@ -1,0 +1,105 @@
+ago. 12, 2024 9:00:46 PM Main main
+INFO: Este é um log de INFO
+ago. 12, 2024 9:00:46 PM Main main
+WARNING: Este é um log de WARNING
+ago. 12, 2024 9:00:46 PM Main main
+SEVERE: Este é um log de ERROR
+ago. 12, 2024 9:00:46 PM Main main
+CONFIG: Este é um log de DEBUG
+ago. 12, 2024 9:00:46 PM Main main
+SEVERE: Este é um log de CRITICAL
+ago. 12, 2024 9:00:46 PM Main main
+SEVERE: Erro: Divisão por zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:21)
+
+ago. 12, 2024 9:05:06 PM Main main
+INFO: Este é um log de INFO
+ago. 12, 2024 9:05:06 PM Main main
+WARNING: Este é um log de WARNING
+ago. 12, 2024 9:05:06 PM Main main
+SEVERE: Este é um log de ERROR
+ago. 12, 2024 9:05:06 PM Main main
+CONFIG: Este é um log de DEBUG
+ago. 12, 2024 9:05:06 PM Main main
+SEVERE: Este é um log de CRITICAL
+ago. 12, 2024 9:05:06 PM Main main
+SEVERE: Erro: Divisão por zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:21)
+
+ago. 12, 2024 9:06:01 PM Main main
+INFO: Este é um log de INFO
+ago. 12, 2024 9:06:01 PM Main main
+WARNING: Este é um log de WARNING
+ago. 12, 2024 9:06:01 PM Main main
+SEVERE: Este é um log de ERROR
+ago. 12, 2024 9:06:01 PM Main main
+CONFIG: Este é um log de DEBUG
+ago. 12, 2024 9:06:01 PM Main main
+SEVERE: Este é um log de CRITICAL
+ago. 12, 2024 9:07:13 PM Main main
+INFO: Este é um log de INFO
+ago. 12, 2024 9:07:14 PM Main main
+WARNING: Este é um log de WARNING
+ago. 12, 2024 9:07:14 PM Main main
+SEVERE: Este é um log de ERROR
+ago. 12, 2024 9:07:14 PM Main main
+CONFIG: Este é um log de DEBUG
+ago. 12, 2024 9:07:14 PM Main main
+SEVERE: Este é um log de CRITICAL
+ago. 12, 2024 9:07:45 PM Main main
+INFO: Este é um log de INFO
+ago. 12, 2024 9:07:45 PM Main main
+WARNING: Este é um log de WARNING
+ago. 12, 2024 9:07:45 PM Main main
+SEVERE: Este é um log de ERROR
+ago. 12, 2024 9:07:45 PM Main main
+CONFIG: Este é um log de DEBUG
+ago. 12, 2024 9:07:45 PM Main main
+SEVERE: Este é um log de CRITICAL
+ago. 12, 2024 9:07:56 PM Main main
+INFO: Este é um log de INFO
+ago. 12, 2024 9:07:56 PM Main main
+WARNING: Este é um log de WARNING
+ago. 12, 2024 9:07:56 PM Main main
+SEVERE: Este é um log de ERROR
+ago. 12, 2024 9:07:56 PM Main main
+CONFIG: Este é um log de DEBUG
+ago. 12, 2024 9:07:56 PM Main main
+SEVERE: Este é um log de CRITICAL
+ago. 12, 2024 9:07:56 PM Main main
+SEVERE: Erro: Divisão por zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:21)
+
+ago. 12, 2024 9:08:57 PM Main main
+INFO: Este é um log de INFO
+ago. 12, 2024 9:08:57 PM Main main
+WARNING: Este é um log de WARNING
+ago. 12, 2024 9:08:57 PM Main main
+SEVERE: Este é um log de ERROR
+ago. 12, 2024 9:08:57 PM Main main
+CONFIG: Este é um log de DEBUG
+ago. 12, 2024 9:08:57 PM Main main
+SEVERE: Este é um log de CRITICAL
+ago. 12, 2024 9:08:57 PM Main main
+SEVERE: Erro: Divisão por zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:21)
+
+ago. 12, 2024 9:10:49 PM Main main
+INFO: Este é um log de INFO
+ago. 12, 2024 9:10:49 PM Main main
+WARNING: Este é um log de WARNING
+ago. 12, 2024 9:10:49 PM Main main
+SEVERE: Este é um log de ERROR
+ago. 12, 2024 9:10:49 PM Main main
+CONFIG: Este é um log de DEBUG
+ago. 12, 2024 9:10:49 PM Main main
+SEVERE: Este é um log de CRITICAL
+ago. 12, 2024 9:10:49 PM Main main
+SEVERE: Erro: Divisão por zero
+java.lang.ArithmeticException: / by zero
+	at Main.main(Main.java:21)
+
